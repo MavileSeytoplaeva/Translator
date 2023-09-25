@@ -5,3 +5,12 @@ Steps:
 1. Apps controls the keyboard and when noticing CTRL + C copies the word or a word combination to a Data Base
 2. Then uses a API Translator and translates the word and writes down the definition in the second column
 3. There will be a function of the app to reformat DataBase to file.
+
+
+--KeyboardListener Branch
+
+1. Connected a DB with an app
+2. DB fills with info by endpoints and sql (just to check if is working)
+3. Wrote some simple save and delete methods for DB just to check
+4. Worked wholly on DB at that moment
+5. Next step should be the connection of KeyListener and DB
