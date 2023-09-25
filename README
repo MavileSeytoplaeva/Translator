@@ -1,0 +1,7 @@
+The aim of the project is to help philology students to ease and shorten the time of writing down every word and its
+definition.
+
+Steps:
+1. Apps controls the keyboard and when noticing CTRL + C copies the word or a word combination to a Data Base
+2. Then uses a API Translator and translates the word and writes down the definition in the second column
+3. There will be a function of the app to reformat DataBase to file.
